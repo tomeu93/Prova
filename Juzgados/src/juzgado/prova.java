@@ -2,6 +2,6 @@ package juzgado;
 
 public class prova {
   
-System.out.println("que");
+System.out.println("queeee");
 
 }
